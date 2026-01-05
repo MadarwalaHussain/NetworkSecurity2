@@ -59,7 +59,7 @@ class NetworkDataExtract():
 
 if __name__ == '__main__':
     FILE_PATH = 'network_data/phisingData.csv'
-    DATABASE = 'HussainDb'
+    DATABASE = 'NetworkDataDb'
     Collection = 'NetworkData'
     networkobj = NetworkDataExtract()
     records = networkobj.csv_to_json_converter(file_path=FILE_PATH)

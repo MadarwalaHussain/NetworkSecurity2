@@ -6,4 +6,5 @@ certifi
 pymongo[srv]==3.11
 urllib3
 requests
+scikit-learn
 # -e .
