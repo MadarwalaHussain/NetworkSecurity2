@@ -8,5 +8,9 @@ urllib3
 requests
 scikit-learn
 PyYAML
-
+mlflow
+dagshub
+fastapi
+uvicorn
+python-multipart
 # -e .
